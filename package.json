@@ -1,0 +1,14 @@
+{
+  "name": "nodethings",
+  "version": "1.0.0",
+  "description": "Testing node and npm things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chancla"
+  ],
+  "author": "Chancleto",
+  "license": "ISC"
+}

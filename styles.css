@@ -79,7 +79,9 @@ nav div a:hover {
     height: 15px;
     width: 15px;
     background: var(--c);
-    box-shadow: -7px 0px 10px var(--c);
+	border-radius: 1em;
+    box-shadow: -5px 0px 10px var(--c);
+    box-shadow: -3px 0px 10px var(--c);
     animation: cubes calc(120s/var(--s)) linear infinite;
 }
 
